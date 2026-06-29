@@ -12097,15 +12097,12 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2025-05-23 21:10:00,2025-05-23,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.8
 2025-05-24 00:05:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.95
 2025-05-24 03:00:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.54
-2025-05-24 04:05:03,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.62
 2025-05-24 05:30:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.38
 2025-05-24 07:08:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.5
 2025-05-24 09:35:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.72
-2025-05-24 11:08:14,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.61
 2025-05-24 11:55:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.6
 2025-05-24 14:35:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.56
 2025-05-24 16:35:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.54
-2025-05-24 18:35:58,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.57
 2025-05-24 19:15:00,2025-05-24,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.62
 2025-05-25 03:20:00,2025-05-25,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.59
 2025-05-25 07:20:02,2025-05-25,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,16.55
@@ -94955,22 +94952,708 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-06-28 13:24:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
 2026-06-28 13:24:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
 2026-06-28 13:24:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
-2026-06-28 13:41:58,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
-2026-06-28 13:41:58,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:06:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 14:06:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:08:03,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 14:08:03,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 14:10:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 14:10:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:23:03,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:23:03,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:24:05,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:24:05,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:28:03,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:28:03,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:37:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:37:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:39:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:39:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:45:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:45:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 15:47:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 15:47:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 16:14:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 16:14:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:18:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:18:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:26:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:26:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:32:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:32:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:34:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:34:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:37:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:37:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:43:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:43:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 17:57:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 17:57:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:00:03,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 18:00:03,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:06:01,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 18:06:01,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:55:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 18:55:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 18:57:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 18:57:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:38:11,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 19:38:11,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:48:11,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 19:48:11,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:51:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 19:51:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 19:57:02,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 19:57:02,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.91
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 20:02:03,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 20:02:03,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:31:34,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 21:31:34,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.89
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:33:11,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 21:33:11,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 21:48:11,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 21:48:11,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.89
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-28 22:00:04,2026-06-28,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-28 22:00:04,2026-06-28,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-29 00:00:00,2026-06-29,daily,usd_purchase_official,Official USD purchase exchange rate,bolivianos_per_us_dollar,DOLAR COMPRA,currency,,6.86
+2026-06-29 00:00:00,2026-06-29,daily,usd_sale_official,Official USD sale exchange rate,bolivianos_per_us_dollar,DOLAR VENTA,currency,,6.96
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 06:00:00,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 06:00:00,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.9
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:02:05,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 07:02:05,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.89
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:12:02,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 07:12:02,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.88
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:18:02,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 07:18:02,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.89
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:24:03,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 07:24:03,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.88
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_official_compra,BCB compra oficial,bolivianos_per_us_dollar,,,,6.86
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_official_venta,BCB venta oficial,bolivianos_per_us_dollar,,,,6.96
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_bisa,Compra Banco Bisa,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_de_credito,Compra Banco De Credito,bolivianos_per_us_dollar,,,,9.59
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_de_la_nacion_argentina,Compra Banco De La Nacion Argentina,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_economico,Compra Banco Economico,bolivianos_per_us_dollar,,,,9.77
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_fie,Compra Banco Fie,bolivianos_per_us_dollar,,,,9.8
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_fortaleza,Compra Banco Fortaleza,bolivianos_per_us_dollar,,,,9.7
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_ganadero,Compra Banco Ganadero,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_mercantil_santa_cruz,Compra Banco Mercantil Santa Cruz,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_nacional_de_bolivia,Compra Banco Nacional De Bolivia,bolivianos_per_us_dollar,,,,9.78
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_prodem,Compra Banco Prodem,bolivianos_per_us_dollar,,,,6.97
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_de_la_comunidad,Compra Banco Pyme De La Comunidad,bolivianos_per_us_dollar,,,,7.0
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_pyme_ecofuturo,Compra Banco Pyme Ecofuturo,bolivianos_per_us_dollar,,,,9.75
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_solidario,Compra Banco Solidario,bolivianos_per_us_dollar,,,,9.74
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_banco_union,Compra Banco Union,bolivianos_per_us_dollar,,,,9.26
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_compra_bancos_promedio_ponderado,BCB compra referencial,bolivianos_per_us_dollar,,,,9.76
+2026-06-29 07:42:00,2026-06-29,high_frequency,bcb_ref_venta,BCB venta referencial,bolivianos_per_us_dollar,,,,9.96
+2026-06-29 07:42:00,2026-06-29,high_frequency,usdt_bob_parallel,USDT/BOB,bolivianos_per_us_dollar,,,,9.88
