@@ -28996,8 +28996,54 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-02 23:22:02,2026-09-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
 2026-09-02 23:27:49,2026-09-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
 2026-09-02 23:51:02,2026-09-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,9492931.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,254412.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,1322930.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Fortaleza,financial_intermediary,purchase,153114.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Ganadero,financial_intermediary,purchase,8799522.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Mercantil Santa Cruz,financial_intermediary,purchase,1912850.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Nacional de Bolivia,financial_intermediary,purchase,3232721.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PRODEM,financial_intermediary,purchase,11869.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PyME Ecofuturo,financial_intermediary,purchase,2.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PyME de la Comunidad,financial_intermediary,purchase,1553.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Solidario,financial_intermediary,purchase,3003232.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Union,financial_intermediary,purchase,2014.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco de Credito,financial_intermediary,purchase,4020744.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco de la Nacion Argentina,financial_intermediary,purchase,46435.0
+2026-09-03 00:00:00,2026-09-03,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Bancos (montos totales),financial_intermediary,purchase,32254329.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco BISA,financial_intermediary,purchase,105.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Economico,financial_intermediary,purchase,45.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco FIE,financial_intermediary,purchase,23.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Fortaleza,financial_intermediary,purchase,7.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Ganadero,financial_intermediary,purchase,149.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Mercantil Santa Cruz,financial_intermediary,purchase,223.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Nacional de Bolivia,financial_intermediary,purchase,322.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PRODEM,financial_intermediary,purchase,22.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PyME Ecofuturo,financial_intermediary,purchase,3.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PyME de la Comunidad,financial_intermediary,purchase,6.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Solidario,financial_intermediary,purchase,53.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Union,financial_intermediary,purchase,22.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,542.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,34.0
+2026-09-03 00:00:00,2026-09-03,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1556.0
 2026-09-03 00:00:00,2026-09-03,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,12.32
 2026-09-03 00:00:00,2026-09-03,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,12.42
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,12.434977457436483
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Economico,financial_intermediary,purchase,12.504939822020974
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco FIE,financial_intermediary,purchase,12.56136384200222
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Fortaleza,financial_intermediary,purchase,12.191308959337489
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Ganadero,financial_intermediary,purchase,12.4669142585245
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Mercantil Santa Cruz,financial_intermediary,purchase,12.502317745772016
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Nacional de Bolivia,financial_intermediary,purchase,12.372255360113046
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PRODEM,financial_intermediary,purchase,12.02
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PyME Ecofuturo,financial_intermediary,purchase,11.92
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PyME de la Comunidad,financial_intermediary,purchase,11.919999999999998
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Solidario,financial_intermediary,purchase,12.571621103531127
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Union,financial_intermediary,purchase,10.5
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de Credito,financial_intermediary,purchase,12.397924841770577
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de la Nacion Argentina,financial_intermediary,purchase,12.178285775815656
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Bancos (promedio ponderado),financial_intermediary,purchase,12.45
+2026-09-03 00:00:00,2026-09-03,daily,tipo_cambio_venta_referencial_bcb,Tipo de cambio referencial de venta de USD del BCB,bolivianos_per_us_dollar,Sistema financiero,aggregate,sale,12.55
 2026-09-03 00:08:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
 2026-09-03 01:14:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
 2026-09-03 01:20:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
@@ -29014,4 +29060,74 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-03 06:04:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
 2026-09-03 06:22:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
 2026-09-03 06:28:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
-2026-09-03 06:37:26,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 06:53:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 07:02:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 07:39:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 07:53:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
+2026-09-03 07:58:55,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.38
+2026-09-03 08:16:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.37
+2026-09-03 08:37:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.38
+2026-09-03 09:26:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
+2026-09-03 09:39:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 09:49:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 09:57:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 10:06:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 10:14:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 10:30:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 10:47:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 10:53:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 11:00:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 11:32:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 11:34:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 11:39:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 11:47:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.46
+2026-09-03 11:49:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 11:51:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.46
+2026-09-03 11:57:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 12:28:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 12:37:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 13:20:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 14:04:03,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 14:28:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 14:43:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 14:44:46,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 15:30:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 16:43:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 16:57:03,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 17:06:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 17:22:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 18:02:03,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 18:04:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.45
+2026-09-03 18:08:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 18:13:54,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 18:28:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 18:41:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 18:45:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 18:47:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 19:10:04,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 19:14:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.41
+2026-09-03 19:16:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 19:32:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
+2026-09-03 19:57:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
+2026-09-03 20:02:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 20:06:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 20:10:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 20:12:01,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 20:18:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
+2026-09-03 20:28:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 20:37:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 20:45:04,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 20:47:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 21:06:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 21:32:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 22:34:02,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-03 22:47:03,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-03 23:57:03,2026-09-03,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-04 00:00:00,2026-09-04,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,12.45
+2026-09-04 00:00:00,2026-09-04,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,12.55
+2026-09-04 00:10:03,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-04 00:28:02,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-04 00:41:02,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
+2026-09-04 01:06:02,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-04 01:06:19,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
+2026-09-04 06:00:00,2026-09-04,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.43
