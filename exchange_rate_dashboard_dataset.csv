@@ -29427,7 +29427,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-14 00:00:00,2026-09-14,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.6407684919415354
 2026-09-14 00:00:00,2026-09-14,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.3203842459707677
 2026-09-14 00:00:00,2026-09-14,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.6407684919415354
-2026-09-14 00:00:00,2026-09-14,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,134.9576130359985
 2026-09-14 00:00:00,2026-09-14,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,7035445.0
 2026-09-14 00:00:00,2026-09-14,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,4903.0
 2026-09-14 00:00:00,2026-09-14,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,13888.0
@@ -29454,11 +29453,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-14 00:00:00,2026-09-14,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,89.0
 2026-09-14 00:00:00,2026-09-14,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,8.0
 2026-09-14 00:00:00,2026-09-14,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,835.0
-2026-09-14 00:00:00,2026-09-14,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.75902074
-2026-09-14 00:00:00,2026-09-14,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.78198311
-2026-09-14 00:00:00,2026-09-14,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,676.9563149999999
-2026-09-14 00:00:00,2026-09-14,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3499.05873225
-2026-09-14 00:00:00,2026-09-14,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4241.556051099999
 2026-09-14 00:00:00,2026-09-14,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,11.53
 2026-09-14 00:00:00,2026-09-14,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,11.63
 2026-09-14 00:00:00,2026-09-14,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,10.911438490386892
@@ -29539,7 +29533,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-15 00:00:00,2026-09-15,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.8789952484344009
 2026-09-15 00:00:00,2026-09-15,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.43949762421720046
 2026-09-15 00:00:00,2026-09-15,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.8789952484344009
-2026-09-15 00:00:00,2026-09-15,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,125.1961534035605
 2026-09-15 00:00:00,2026-09-15,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,17551371.0
 2026-09-15 00:00:00,2026-09-15,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,1151359.0
 2026-09-15 00:00:00,2026-09-15,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,3401136.0
@@ -29570,11 +29563,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-15 00:00:00,2026-09-15,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,526.0
 2026-09-15 00:00:00,2026-09-15,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,10.0
 2026-09-15 00:00:00,2026-09-15,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1575.0
-2026-09-15 00:00:00,2026-09-15,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.69672279
-2026-09-15 00:00:00,2026-09-15,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.73009813
-2026-09-15 00:00:00,2026-09-15,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,621.8128241300001
-2026-09-15 00:00:00,2026-09-15,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3464.72197348
-2026-09-15 00:00:00,2026-09-15,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4151.961618530001
 2026-09-15 00:00:00,2026-09-15,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,10.99
 2026-09-15 00:00:00,2026-09-15,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,11.09
 2026-09-15 00:00:00,2026-09-15,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,9.844493949219125
@@ -29665,7 +29653,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-16 00:00:00,2026-09-16,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-1.005205356222929
 2026-09-16 00:00:00,2026-09-16,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.5026026781114645
 2026-09-16 00:00:00,2026-09-16,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,1.005205356222929
-2026-09-16 00:00:00,2026-09-16,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,119.08550939130424
 2026-09-16 00:00:00,2026-09-16,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,18560041.0
 2026-09-16 00:00:00,2026-09-16,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,2249259.0
 2026-09-16 00:00:00,2026-09-16,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,775544.0
@@ -29696,11 +29683,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-16 00:00:00,2026-09-16,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,441.0
 2026-09-16 00:00:00,2026-09-16,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,8.0
 2026-09-16 00:00:00,2026-09-16,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1603.0
-2026-09-16 00:00:00,2026-09-16,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.683168429999995
-2026-09-16 00:00:00,2026-09-16,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.71880934
-2026-09-16 00:00:00,2026-09-16,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,623.3113065
-2026-09-16 00:00:00,2026-09-16,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3472.49052544
-2026-09-16 00:00:00,2026-09-16,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4161.203809709999
 2026-09-16 00:00:00,2026-09-16,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,10.15
 2026-09-16 00:00:00,2026-09-16,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,10.25
 2026-09-16 00:00:00,2026-09-16,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,9.762793530466878
@@ -29814,7 +29796,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-17 00:00:00,2026-09-17,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-1.395968826950302
 2026-09-17 00:00:00,2026-09-17,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.697984413475151
 2026-09-17 00:00:00,2026-09-17,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,1.395968826950302
-2026-09-17 00:00:00,2026-09-17,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,118.1749595250254
 2026-09-17 00:00:00,2026-09-17,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,8194627.0
 2026-09-17 00:00:00,2026-09-17,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,628730.0
 2026-09-17 00:00:00,2026-09-17,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,200101.0
@@ -29845,11 +29826,6 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-17 00:00:00,2026-09-17,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,487.0
 2026-09-17 00:00:00,2026-09-17,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,21.0
 2026-09-17 00:00:00,2026-09-17,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1435.0
-2026-09-17 00:00:00,2026-09-17,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.68186513
-2026-09-17 00:00:00,2026-09-17,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.71772388
-2026-09-17 00:00:00,2026-09-17,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,617.9709385299999
-2026-09-17 00:00:00,2026-09-17,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3434.66632224
-2026-09-17 00:00:00,2026-09-17,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4118.03684978
 2026-09-17 00:00:00,2026-09-17,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,9.83
 2026-09-17 00:00:00,2026-09-17,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,9.93
 2026-09-17 00:00:00,2026-09-17,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,9.942069099667378
@@ -30175,6 +30151,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-21 00:00:00,2026-09-21,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.7890017374587827
 2026-09-21 00:00:00,2026-09-21,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.39450086872939133
 2026-09-21 00:00:00,2026-09-21,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.7890017374587827
+2026-09-21 00:00:00,2026-09-21,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,136.6131791652552
 2026-09-21 00:00:00,2026-09-21,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,1769222.0
 2026-09-21 00:00:00,2026-09-21,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,4053001.0
 2026-09-21 00:00:00,2026-09-21,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,651.0
@@ -30203,6 +30180,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-21 00:00:00,2026-09-21,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,791.0
 2026-09-21 00:00:00,2026-09-21,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,36.0
 2026-09-21 00:00:00,2026-09-21,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1635.0
+2026-09-21 00:00:00,2026-09-21,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.565610379999995
+2026-09-21 00:00:00,2026-09-21,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.62090085
+2026-09-21 00:00:00,2026-09-21,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,549.9164928399999
+2026-09-21 00:00:00,2026-09-21,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3533.1635602
+2026-09-21 00:00:00,2026-09-21,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4148.26656427
 2026-09-21 00:00:00,2026-09-21,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,11.0
 2026-09-21 00:00:00,2026-09-21,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,11.1
 2026-09-21 00:00:00,2026-09-21,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,11.775443386980266
@@ -30268,6 +30250,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-22 00:00:00,2026-09-22,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-1.4260859589613522
 2026-09-22 00:00:00,2026-09-22,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.7130429794806761
 2026-09-22 00:00:00,2026-09-22,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,1.4260859589613522
+2026-09-22 00:00:00,2026-09-22,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,142.41130002348197
 2026-09-22 00:00:00,2026-09-22,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,38345021.0
 2026-09-22 00:00:00,2026-09-22,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,4095228.0
 2026-09-22 00:00:00,2026-09-22,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,501501.0
@@ -30298,6 +30281,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-22 00:00:00,2026-09-22,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,627.0
 2026-09-22 00:00:00,2026-09-22,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,13.0
 2026-09-22 00:00:00,2026-09-22,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1864.0
+2026-09-22 00:00:00,2026-09-22,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.58672391
+2026-09-22 00:00:00,2026-09-22,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.6384853
+2026-09-22 00:00:00,2026-09-22,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,542.57788807
+2026-09-22 00:00:00,2026-09-22,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3506.75561615
+2026-09-22 00:00:00,2026-09-22,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4114.55871343
 2026-09-22 00:00:00,2026-09-22,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,11.9
 2026-09-22 00:00:00,2026-09-22,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,12.0
 2026-09-22 00:00:00,2026-09-22,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,11.9502462142347
@@ -30350,6 +30338,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-23 00:00:00,2026-09-23,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-1.5501172807796024
 2026-09-23 00:00:00,2026-09-23,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.7750586403898012
 2026-09-23 00:00:00,2026-09-23,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,1.5501172807796024
+2026-09-23 00:00:00,2026-09-23,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,143.63167350038452
 2026-09-23 00:00:00,2026-09-23,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,5964528.0
 2026-09-23 00:00:00,2026-09-23,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,2685578.0
 2026-09-23 00:00:00,2026-09-23,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,872064.0
@@ -30380,6 +30369,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-23 00:00:00,2026-09-23,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,537.0
 2026-09-23 00:00:00,2026-09-23,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,24.0
 2026-09-23 00:00:00,2026-09-23,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1569.0
+2026-09-23 00:00:00,2026-09-23,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.56952029
+2026-09-23 00:00:00,2026-09-23,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.62415723
+2026-09-23 00:00:00,2026-09-23,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,534.5522871100001
+2026-09-23 00:00:00,2026-09-23,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3516.47443547
+2026-09-23 00:00:00,2026-09-23,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4116.2204001
 2026-09-23 00:00:00,2026-09-23,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,12.06
 2026-09-23 00:00:00,2026-09-23,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,12.16
 2026-09-23 00:00:00,2026-09-23,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,12.178848976817614
@@ -30421,6 +30415,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-24 00:00:00,2026-09-24,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-1.093859915194487
 2026-09-24 00:00:00,2026-09-24,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.5469299575972435
 2026-09-24 00:00:00,2026-09-24,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,1.093859915194487
+2026-09-24 00:00:00,2026-09-24,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,143.99396824996862
 2026-09-24 00:00:00,2026-09-24,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,25323995.0
 2026-09-24 00:00:00,2026-09-24,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,50.0
 2026-09-24 00:00:00,2026-09-24,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,2426171.0
@@ -30447,6 +30442,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-24 00:00:00,2026-09-24,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Union,financial_intermediary,purchase,45.0
 2026-09-24 00:00:00,2026-09-24,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,338.0
 2026-09-24 00:00:00,2026-09-24,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,1172.0
+2026-09-24 00:00:00,2026-09-24,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.488194109999995
+2026-09-24 00:00:00,2026-09-24,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.55642452
+2026-09-24 00:00:00,2026-09-24,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,536.1767390000001
+2026-09-24 00:00:00,2026-09-24,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3461.3302447700003
+2026-09-24 00:00:00,2026-09-24,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4062.5516024
 2026-09-24 00:00:00,2026-09-24,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,12.26
 2026-09-24 00:00:00,2026-09-24,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,12.36
 2026-09-24 00:00:00,2026-09-24,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,12.21016246172849
@@ -30503,6 +30503,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-25 00:00:00,2026-09-25,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.7988189884761775
 2026-09-25 00:00:00,2026-09-25,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.39940949423808875
 2026-09-25 00:00:00,2026-09-25,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.7988189884761775
+2026-09-25 00:00:00,2026-09-25,weekly,indice_tipo_cambio_real_base_diciembre_2022_100,Indice de tipo de cambio real base diciembre 2022 igual a 100,index_december_2022_100,,,,143.68407797843014
 2026-09-25 00:00:00,2026-09-25,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,2744720.0
 2026-09-25 00:00:00,2026-09-25,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,3006.0
 2026-09-25 00:00:00,2026-09-25,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,14198.0
@@ -30531,6 +30532,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-25 00:00:00,2026-09-25,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Union,financial_intermediary,purchase,57.0
 2026-09-25 00:00:00,2026-09-25,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,911.0
 2026-09-25 00:00:00,2026-09-25,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,2050.0
+2026-09-25 00:00:00,2026-09-25,weekly,posicion_con_fmi_bcb,Posicion del BCB con el FMI dentro de las reservas,millions_us_dollars,,,,35.41573039
+2026-09-25 00:00:00,2026-09-25,weekly,reservas_en_deg_bcb,Reservas internacionales del BCB en DEG,millions_us_dollars,,,,29.49607294
+2026-09-25 00:00:00,2026-09-25,weekly,reservas_en_divisas_bcb,Reservas internacionales del BCB en divisas,millions_us_dollars,,,,535.57124679
+2026-09-25 00:00:00,2026-09-25,weekly,reservas_en_oro_bcb,Reservas internacionales del BCB en oro,millions_us_dollars,,,,3452.62030082
+2026-09-25 00:00:00,2026-09-25,weekly,reservas_internacionales_netas_bcb,Reservas internacionales netas del BCB,millions_us_dollars,,,,4053.10335094
 2026-09-25 00:00:00,2026-09-25,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,12.22
 2026-09-25 00:00:00,2026-09-25,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,11.980816640677377
 2026-09-25 00:00:00,2026-09-25,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Economico,financial_intermediary,purchase,11.6
@@ -30887,7 +30893,28 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-09-30 08:39:01,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
 2026-09-30 09:02:01,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.99
 2026-09-30 11:41:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.98
-2026-09-30 12:00:48,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.98
+2026-09-30 12:12:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.99
+2026-09-30 12:13:36,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.98
+2026-09-30 12:15:54,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.99
+2026-09-30 12:47:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
+2026-09-30 13:57:07,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.01
+2026-09-30 14:48:13,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
+2026-09-30 14:53:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.01
+2026-09-30 15:16:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.02
+2026-09-30 15:55:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 17:55:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 18:16:01,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 18:19:44,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 18:26:01,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 18:30:09,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 18:41:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 18:45:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 18:49:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 19:00:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 19:04:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.03
+2026-09-30 19:26:02,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.04
+2026-09-30 20:12:04,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.05
+2026-09-30 20:30:47,2026-09-30,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.05
 2026-10-01 00:00:00,2026-10-01,daily_forecast,limite_inferior_p10_del_pronostico_timesfm_del_tco_compra_bcb,Limite Inferior P10 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.762543
 2026-10-01 00:00:00,2026-10-01,daily_forecast,limite_superior_p90_del_pronostico_timesfm_del_tco_compra_bcb,Limite Superior P90 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,12.175182
 2026-10-01 00:00:00,2026-10-01,daily_forecast,pronostico_timesfm_del_tco_compra_bcb,Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.970221
