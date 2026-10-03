@@ -31015,7 +31015,7 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-10-01 00:00:00,2026-10-01,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Union,financial_intermediary,purchase,11.421445186768008
 2026-10-01 00:00:00,2026-10-01,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de Credito,financial_intermediary,purchase,11.915230386867652
 2026-10-01 00:00:00,2026-10-01,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de la Nacion Argentina,financial_intermediary,purchase,11.930905605290466
-2026-10-01 00:00:00,2026-10-01,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Bancos (promedio ponderado),financial_intermediary,purchase,11.9
+2026-10-01 00:00:00,2026-10-01,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Tco (Mediana Ponderada),aggregate,purchase,11.9
 2026-10-01 00:00:00,2026-10-01,daily,variacion_diaria_tco_compra_bcb,Variacion diaria del TCO compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.019999999999999574
 2026-10-01 00:00:00,2026-10-01,daily,volatilidad_condicional_tco_garch_11,"Volatilidad condicional diaria del TCO estimada con GARCH(1,1)",bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.14119600769626003
 2026-10-01 00:28:02,2026-10-01,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.07
@@ -31103,7 +31103,52 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-10-02 00:00:00,2026-10-02,daily,banda_inferior_2_desviaciones_garch_tco,Banda inferior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.23432799925296763
 2026-10-02 00:00:00,2026-10-02,daily,banda_superior_1_desviacion_garch_tco,Banda superior de 1 desviacion estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.11716399962648381
 2026-10-02 00:00:00,2026-10-02,daily,banda_superior_2_desviaciones_garch_tco,Banda superior de 2 desviaciones estandar GARCH del TCO,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.23432799925296763
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco BISA,financial_intermediary,purchase,1906150.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Economico,financial_intermediary,purchase,5585481.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco FIE,financial_intermediary,purchase,1127702.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Fortaleza,financial_intermediary,purchase,890520.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Ganadero,financial_intermediary,purchase,4706396.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Mercantil Santa Cruz,financial_intermediary,purchase,5972846.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Nacional de Bolivia,financial_intermediary,purchase,1160647.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PRODEM,financial_intermediary,purchase,6171.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PyME Ecofuturo,financial_intermediary,purchase,500002.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco PyME de la Comunidad,financial_intermediary,purchase,97.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Solidario,financial_intermediary,purchase,4804445.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco Union,financial_intermediary,purchase,1273635.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco de Credito,financial_intermediary,purchase,2234078.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Banco de la Nacion Argentina,financial_intermediary,purchase,40608.0
+2026-10-02 00:00:00,2026-10-02,daily,monto_compra_usd_banco,Monto diario de compra de USD por banco,us_dollars,Bancos (montos totales),financial_intermediary,purchase,30208778.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco BISA,financial_intermediary,purchase,459.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Economico,financial_intermediary,purchase,36.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco FIE,financial_intermediary,purchase,20.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Fortaleza,financial_intermediary,purchase,9.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Ganadero,financial_intermediary,purchase,261.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Mercantil Santa Cruz,financial_intermediary,purchase,265.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Nacional de Bolivia,financial_intermediary,purchase,384.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PRODEM,financial_intermediary,purchase,15.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PyME Ecofuturo,financial_intermediary,purchase,3.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco PyME de la Comunidad,financial_intermediary,purchase,1.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Solidario,financial_intermediary,purchase,53.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco Union,financial_intermediary,purchase,54.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de Credito,financial_intermediary,purchase,1077.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Banco de la Nacion Argentina,financial_intermediary,purchase,20.0
+2026-10-02 00:00:00,2026-10-02,daily,numero_transacciones_compra_usd_banco,Numero diario de transacciones de compra de USD por banco,transactions,Bancos (numero de transacciones),financial_intermediary,purchase,2657.0
 2026-10-02 00:00:00,2026-10-02,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,11.9
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco BISA,financial_intermediary,purchase,11.86237043254728
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Economico,financial_intermediary,purchase,12.003751021621952
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco FIE,financial_intermediary,purchase,12.090863596943162
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Fortaleza,financial_intermediary,purchase,12.045790773929838
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Ganadero,financial_intermediary,purchase,11.872160357309498
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Mercantil Santa Cruz,financial_intermediary,purchase,11.94658414682046
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Nacional de Bolivia,financial_intermediary,purchase,11.66926027638033
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PRODEM,financial_intermediary,purchase,11.599999999999998
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PyME Ecofuturo,financial_intermediary,purchase,12.057995368018528
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco PyME de la Comunidad,financial_intermediary,purchase,11.5
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Solidario,financial_intermediary,purchase,11.968963655947777
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco Union,financial_intermediary,purchase,11.948770252073787
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de Credito,financial_intermediary,purchase,11.914883826840423
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Banco de la Nacion Argentina,financial_intermediary,purchase,11.782794030732862
+2026-10-02 00:00:00,2026-10-02,daily,tipo_cambio_compra_bancario,Tipo de cambio de compra de USD por banco,bolivianos_per_us_dollar,Bancos (promedio ponderado),financial_intermediary,purchase,12.0
 2026-10-02 00:00:00,2026-10-02,daily,variacion_diaria_tco_compra_bcb,Variacion diaria del TCO compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,-0.09999999999999964
 2026-10-02 00:00:00,2026-10-02,daily,volatilidad_condicional_tco_garch_11,"Volatilidad condicional diaria del TCO estimada con GARCH(1,1)",bolivianos_per_us_dollar,TCO compra BCB,currency,garch_11,0.11716399962648381
 2026-10-02 00:06:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.06
@@ -31176,7 +31221,19 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-10-02 15:34:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
 2026-10-02 15:37:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.01
 2026-10-02 15:39:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
-2026-10-02 16:00:48,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.0
+2026-10-02 17:47:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.99
+2026-10-02 18:51:01,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.98
+2026-10-02 19:24:03,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.97
+2026-10-02 19:25:24,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.98
+2026-10-02 19:39:01,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.97
+2026-10-02 19:43:06,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.96
+2026-10-02 19:48:54,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.97
+2026-10-02 19:51:01,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.96
+2026-10-02 19:53:14,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.97
+2026-10-02 20:00:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.96
+2026-10-02 20:04:02,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.97
+2026-10-02 20:24:51,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.96
+2026-10-02 20:31:27,2026-10-02,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.96
 2026-10-05 00:00:00,2026-10-05,daily_forecast,limite_inferior_p10_del_pronostico_timesfm_del_tco_compra_bcb,Limite Inferior P10 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.707354
 2026-10-05 00:00:00,2026-10-05,daily_forecast,limite_superior_p90_del_pronostico_timesfm_del_tco_compra_bcb,Limite Superior P90 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,12.00981
 2026-10-05 00:00:00,2026-10-05,daily_forecast,pronostico_timesfm_del_tco_compra_bcb,Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.871937
