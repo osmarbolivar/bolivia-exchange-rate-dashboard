@@ -3,15 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Monitor cambiario de Bolivia</title>
+  <title>Monitor Cambiario de Bolivia | Tipo de cambio del dólar</title>
   <!-- Etiquetas de metadatos para Google (SEO) -->
-  <meta name="description" content="Seguimiento diario del mercado cambiario boliviano bajo flotación administrada: USDT/BOB, TCO del BCB, compras bancarias, reservas, tipo de cambio real y base de datos descargable para análisis e investigación.">
+  <meta name="description" content="Tipo de cambio del dólar en Bolivia: TCO del BCB, USDT/BOB, compra y venta en bancos, reservas y gráficos actualizados. Por Osmar Bolivar.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
   <meta name="keywords" content="tipo de cambio Bolivia, flotación administrada Bolivia, TCO Bolivia, compras bancarias, dólar Bolivia, USDT Bolivia, monitor cambiario, tipo de cambio real, reservas internacionales Bolivia, balanza cambiaria Bolivia, Osmar Bolivar">
   <meta name="author" content="Osmar Bolivar">
   <link rel="canonical" href="https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/">
+  <link rel="sitemap" type="application/xml" href="https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/sitemap.xml">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "@id": "https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/#webpage", "url": "https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/", "name": "Monitor Cambiario de Bolivia", "description": "Tipo de cambio del d\u00f3lar en Bolivia: TCO del BCB, USDT/BOB, compra y venta en bancos, reservas y gr\u00e1ficos actualizados. Por Osmar Bolivar.", "inLanguage": "es-BO", "dateModified": "2026-10-10T21:08:10.885087+00:00", "author": {"@type": "Person", "name": "Osmar Bolivar Rosales", "url": "https://osmarbolivar.github.io/"}, "image": "https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/social-preview-v2.jpg", "about": [{"@type": "Thing", "name": "Tipo de cambio en Bolivia"}, {"@type": "Thing", "name": "Mercado cambiario boliviano"}]}</script>
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Monitor cambiario de Bolivia">
-  <meta property="og:title" content="Monitor cambiario de Bolivia">
+  <meta property="og:site_name" content="Monitor Cambiario de Bolivia">
+  <meta property="og:title" content="Monitor Cambiario de Bolivia">
   <meta property="og:description" content="Seguimiento diario del mercado cambiario boliviano bajo flotación administrada, con TCO, compras bancarias, reservas, tipo de cambio real y base de datos descargable.">
   <meta property="og:url" content="https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/">
   <meta property="og:image" content="https://osmarbolivar.github.io/bolivia-exchange-rate-dashboard/social-preview-v2.jpg">
@@ -41,6 +44,13 @@
       --shadow: 0 12px 28px rgba(23, 33, 29, 0.08);
     }
     * { box-sizing: border-box; }
+    .chart-heading {
+      margin: 0 0 8px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.4;
+      overflow-wrap: anywhere;
+    }
     body {
       margin: 0;
       background: var(--bg);
@@ -454,7 +464,7 @@
         <div class="subtitle">Seguimiento diario del mercado cambiario boliviano bajo flotación administrada desde el 29 de junio de 2026. Permite monitorear de forma intuitiva el dólar vía USDT, el Tipo de Cambio Oficial (TCO), las compras bancarias, las reservas y la competitividad externa, y ofrece una base de datos descargable de alta frecuencia para análisis rigurosos.</div>
       </div>
       <div class="header-actions">
-        <div class="stamp">Datos actualizado al 2026-10-10 17:06 BOT</div>
+        <div class="stamp">Datos actualizado al 2026-10-10 17:08 BOT</div>
         <a class="download-link" href="exchange_rate_dashboard_dataset.csv" download>Descargar Base de Datos CSV</a>
       </div>
     </div>
@@ -470,8 +480,8 @@
 <div class="kpi"><div class="kpi-label">Desviación porcentual del Tipo de cambio real respecto a su máximo histórico</div><div class="kpi-value">-28,0%</div><div class="kpi-detail">ITCR al 2026-10-02: 140,7 vs. máximo histórico: 195,4</div></div></section>
     <section class="grid">
       <article class="insight-callout wide"><h3>Brecha entre mercado paralelo y canal formal</h3><p>Desde el 2026-06-29, Bolivia opera con flotación administrada. El TCO BCB resume el tipo de cambio oficial de compra, calculado con las operaciones reportadas por las entidades financieras y el BCB conforme a la metodología vigente. Con ese marco, el dólar vía USDT cotiza en 11,86 Bs/$us: está 1,1% por encima del TCO BCB; en la última semana bajó 0,2 Bs/$us. La brecha frente al canal formal luce contenida, pero sigue siendo importante vigilarla porque puede ampliarse rápido si aumenta la demanda de cobertura. Para hogares, esto cambia el costo esperado de compras dolarizadas y ahorro; para empresas, ayuda a evaluar reposición de inventarios, contratos, márgenes y caja.</p></article>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="2e53df03-77b4-488f-82fb-56b95e2467b8" style="height:505px; width:100%;"></div>  </div></div>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="612d732b-519b-4e04-9fb2-c872715e0890" style="height:410px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-0">Tipo de Cambio Oficial y USDT</h2><div> <div aria-labelledby="chart-heading-0" class="plotly-graph-div" id="85a0a6a7-79f7-4f3b-9492-93ea10fcd28b" style="height:505px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-1">Brecha cambiaria: USDT vs TCO BCB</h2><div> <div aria-labelledby="chart-heading-1" class="plotly-graph-div" id="57f992b2-3a53-489f-9f37-cb7fedb170cc" style="height:410px; width:100%;"></div>  </div></div>
       <article class="insight-callout wide"><h3>Cotizaciones al público en páginas bancarias</h3><p>Esta tabla reúne las cotizaciones de compra y venta de USD que los bancos muestran al público en sus propios sitios web. No son el TCO oficial ni las tasas de las operaciones que los bancos reportan al BCB; cada banco puede actualizarlas de forma independiente durante el día. En la última jornada con datos (2026-10-10), se identificaron cotizaciones de 9 banco(s): la compra estuvo entre 10,56 y 11,23 Bs/$us y la venta entre 11,83 y 12,08 Bs/$us. Las entidades sin una cotización explícita se muestran como &#x27;No publicado&#x27;; sus valores no se imputan ni se infieren.</p></article>
       
     <section class="data-panel bank-public-panel wide" aria-label="Cotizaciones de USD al público por banco">
@@ -492,28 +502,28 @@
     </section>
     
       <article class="insight-callout wide"><h3>Canal bancario, dispersión y volumen</h3><p>El TCO de compra se ubica en 11,73 Bs/$us y la distancia entre el banco que más paga y el que menos paga es 0,54 Bs/$us. El monto bancario de compra de USD más reciente suma 39.585.388 $us, frente a un promedio reciente de 34.931.965 $us. Cuando la dispersión es alta, el mercado luce menos integrado y comparar bancos importa más; cuando además el volumen cambia, eso ayuda a distinguir si el precio refleja pocas operaciones o una necesidad más generalizada de divisas. Para hogares y empresas, esta combinación da una mejor señal sobre disponibilidad real de dólares y sobre cuán negociable es el precio efectivo.</p></article>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="15831081-3426-4354-b97a-18ff1528e3dd" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-2">TCO diario vigente del BCB desde el 29 de junio de 2026</h2><div> <div aria-labelledby="chart-heading-2" class="plotly-graph-div" id="133bd424-d37e-474a-b3e0-6b7abb5ded7c" style="height:495px; width:100%;"></div>  </div></div>
       <article class="insight-callout wide"><h3>Volatilidad diaria del TCO</h3><p>El gráfico compara el cambio diario del TCO con bandas dinámicas estimadas mediante un modelo GARCH(1,1). Las bandas se amplían cuando los movimientos recientes son mayores y se reducen cuando el mercado se estabiliza; por eso permiten distinguir un cambio ordinario de uno inusualmente grande para las condiciones recientes. En el último dato (2026-10-09), el TCO no cambió 0,000 Bs/$us. La volatilidad condicional estimada fue 0,132 Bs/$us, por lo que se trata de una variación dentro del rango habitual de volatilidad reciente. La persistencia estimada de la volatilidad es 0,95: un valor cercano a uno indica que los episodios de variación intensa tienden a disiparse gradualmente.</p></article>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="73ae4123-2f02-4a34-b29d-7b32bbcf6dda" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-3">Volatilidad diaria del TCO: bandas dinámicas GARCH(1,1)</h2><div> <div aria-labelledby="chart-heading-3" class="plotly-graph-div" id="2979a7fa-e1c8-4e4e-84be-a6b2173b5250" style="height:495px; width:100%;"></div>  </div></div>
       <article class="insight-callout wide"><h3>Como leer la descomposicion bancaria diaria</h3><p>El indicador bancario ponderado resume los tipos de cambio pagados por los bancos usando como peso los montos de dólares comprados. Su cambio diario se separa en un efecto precio, cuando los bancos modifican el tipo de cambio que pagan, y un efecto peso, cuando el volumen se desplaza entre bancos. En la última variación disponible (2026-10-09), el indicador cambió -0,110 Bs/$us: el efecto precio explicó -0,079 Bs/$us (71,7%) y el efecto peso explicó -0,031 Bs/$us (28,3%). Esta lectura permite distinguir una repricing generalizado de un cambio de composicion del volumen. Desde el 25 de septiembre de 2026, el TCO oficial se publica como mediana ponderada por monto; por ello, este indicador complementa el seguimiento del TCO, pero no pretende replicarlo de forma exacta.</p></article>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="8f8b6245-28e9-42df-b30a-90a0a2135feb" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel wide"><div> <div class="plotly-graph-div" id="8ce59b8c-fc20-4c0b-a231-e196076beef5" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="ad945dc8-beef-4ea6-a7f2-59cf22f25c0d" style="height:430px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="271715b3-7b37-41b9-91ae-173c61cc7027" style="height:542px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="9dda2fa4-e348-4a36-945b-2cb7004671a4" style="height:542px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="b449dc4f-4b5a-4f9a-92ff-3cd0c9b93e3e" style="height:435px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="b1510786-8b39-4260-abf6-e8341449c713" style="height:570px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="cb3a8904-c2fe-458c-903f-d833e7027133" style="height:542px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-4">Cambio del indicador bancario explicado por precio</h2><div> <div aria-labelledby="chart-heading-4" class="plotly-graph-div" id="fac6654d-ce63-40ee-9593-1592065c654e" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel wide"><h2 class="chart-heading" id="chart-heading-5">Cambio del indicador bancario explicado por participacion en montos</h2><div> <div aria-labelledby="chart-heading-5" class="plotly-graph-div" id="b72dfa90-ae91-4ce3-ba8b-97f6b836649e" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-6">TCO de compra por banco, últimos 45 días</h2><div> <div aria-labelledby="chart-heading-6" class="plotly-graph-div" id="e01592b9-785b-4444-904f-ec40bbb6a2ce" style="height:430px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-7">TCO de compra por banco, último día</h2><div> <div aria-labelledby="chart-heading-7" class="plotly-graph-div" id="de629095-06dc-4a74-8835-08a360091c01" style="height:542px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-8">Desviación TC compra bancario frente a la mediana diaria, últimos 60 días</h2><div> <div aria-labelledby="chart-heading-8" class="plotly-graph-div" id="db807286-f744-47e3-a185-83ccac6ba632" style="height:542px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-9">Total de compra de USD y número de transacciones, por día</h2><div> <div aria-labelledby="chart-heading-9" class="plotly-graph-div" id="c628d529-1dae-4ed8-9bff-248a7e3428e6" style="height:435px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-10">Compra acumulada de USD por banco desde el 2026-01-01 hasta 2026-10-09</h2><div> <div aria-labelledby="chart-heading-10" class="plotly-graph-div" id="4bcca9f4-311e-45e1-a2f5-21a69d0554ba" style="height:570px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-11">Compra de USD por banco del último día disponible (2026-10-09)</h2><div> <div aria-labelledby="chart-heading-11" class="plotly-graph-div" id="695c143f-11f6-4bef-87d4-cc1a7c436e11" style="height:542px; width:100%;"></div>  </div></div>
       <article class="insight-callout wide"><h3>Divisas en reservas y tipo de cambio real</h3><p>Las divisas líquidas de las reservas llegan a 502,5 millones de $us al 2026-10-02; frente a un año atrás subió 400,0 millones de $us. Al mismo tiempo, el tipo de cambio real está en 140,7 puntos: -28,0% respecto a su máximo histórico y 40,7% frente a diciembre de 2022. Las reservas líquidas muestran cuánto efectivo externo tiene el país para suavizar episodios de tensión en una flotación administrada, mientras que el tipo de cambio real compara los precios de Bolivia con los de sus socios comerciales. Si el colchón de divisas cae y la competitividad externa se debilita, sube la preocupación de hogares y empresas por costos importados, capacidad de pago y presión futura sobre el mercado cambiario.</p></article>
-      <div class="panel"><div> <div class="plotly-graph-div" id="2f1cca14-4a70-476d-adcc-c10de728f019" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="f6d4dcf2-68d0-401e-b0f9-387c765cdc05" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-12">Reservas internacionales del BCB: total neto y componentes seleccionados</h2><div> <div aria-labelledby="chart-heading-12" class="plotly-graph-div" id="cb4b0246-2277-4c45-bb9d-61b722264bc7" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-13">Índice de tipo de cambio real (base diciembre 2022=100)</h2><div> <div aria-labelledby="chart-heading-13" class="plotly-graph-div" id="6df308c6-d385-4bc0-9459-073ab09c4508" style="height:495px; width:100%;"></div>  </div></div>
       <article class="insight-callout wide"><h3>Balanza cambiaria</h3><p>En 2026-08, el flujo neto de divisas fue 272,7 millones de $us: hubo entrada neta de divisas. En los últimos 12 meses el saldo acumulado fue 574,1 millones de $us. Esta cuenta muestra si al sistema entran más dólares de los que salen. Cuando salen más dólares de los que entran, el país necesita usar reservas, atraer financiamiento o ajustar importaciones y pagos externos.</p></article>
-      <div class="panel"><div> <div class="plotly-graph-div" id="da5a8946-9b4b-49b7-ac84-a49ba45d7382" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="d6a0b54c-8cc7-48b2-b863-b5579bb46d25" style="height:430px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="72fde5b6-7df6-48fc-a456-14b14e78f13e" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="71035b2e-95ff-466d-aae8-64dbe95920d7" style="height:430px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="bed5e2e9-a96d-462c-8ad2-36c7002cb0a2" style="height:495px; width:100%;"></div>  </div></div>
-      <div class="panel"><div> <div class="plotly-graph-div" id="5bd1badd-f431-4d63-a18f-0cc767fa0c39" style="height:430px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-14">Balanza cambiaria mensual: flujo neto de divisas Bolivia</h2><div> <div aria-labelledby="chart-heading-14" class="plotly-graph-div" id="357d95b3-0b2c-47ca-a16e-b1aad8be32f1" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-15">Acumulado por año: Flujo neto de divisas Bolivia</h2><div> <div aria-labelledby="chart-heading-15" class="plotly-graph-div" id="f67c4e4d-742a-4414-9f9c-f6260ed9d5d1" style="height:430px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-16">Balanza cambiaria mensual: desembolsos deuda externa vs servicio de deuda mensual</h2><div> <div aria-labelledby="chart-heading-16" class="plotly-graph-div" id="0d8d6116-e5aa-43be-a788-039f939966de" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-17">Acumulados por año: Desembolsos deuda externa vs servicio de deuda</h2><div> <div aria-labelledby="chart-heading-17" class="plotly-graph-div" id="93dcb583-4e89-441c-a16d-f724961e513f" style="height:430px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-18">Balanza cambiaria mensual: exportación vs importación de YPFB</h2><div> <div aria-labelledby="chart-heading-18" class="plotly-graph-div" id="f40f88b1-fd37-42b3-81ea-09e3c2368b78" style="height:495px; width:100%;"></div>  </div></div>
+      <div class="panel"><h2 class="chart-heading" id="chart-heading-19">Acumulados por año: exportación vs importación de YPFB</h2><div> <div aria-labelledby="chart-heading-19" class="plotly-graph-div" id="987f4d5b-1617-436c-860f-7cc29e1c8848" style="height:430px; width:100%;"></div>  </div></div>
     </section>
     <footer>
       Disclaimer: Este dashboard tiene fines exclusivamente informativos e ilustrativos. No constituye una fuente primaria de datos, no genera información oficial ni debe interpretarse como recomendación financiera, cambiaria o de inversión. La información presentada proviene de datos publicados por el BCB y de referencias de mercado obtenidas de Binance, estructuradas únicamente para facilitar su visualización y seguimiento por el público general. Para decisiones oficiales, regulatorias, comerciales o financieras, debe consultarse siempre la fuente primaria correspondiente.
@@ -680,7 +690,7 @@
       "title.xanchor": "left",
       "margin.l": leftMargin,
       "margin.r": rightMargin,
-      "margin.t": 58 + Math.max(titleLineCount(title) - 1, 0) * 16,
+      "margin.t": title ? 58 + Math.max(titleLineCount(title) - 1, 0) * 16 : 25,
       "margin.b": hasControls ? 48 : 54,
       "height": chartHeight(graph, title),
       "showlegend": false,
