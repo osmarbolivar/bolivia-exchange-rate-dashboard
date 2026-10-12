@@ -13638,14 +13638,11 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2025-09-06 06:30:00,2025-09-06,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.11
 2025-09-06 09:10:00,2025-09-06,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.12
 2025-09-06 11:40:00,2025-09-06,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.11
-2025-09-06 13:10:03,2025-09-06,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.13
 2025-09-06 17:42:00,2025-09-06,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.15
 2025-09-07 03:05:00,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.13
-2025-09-07 07:05:03,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.17
 2025-09-07 08:20:00,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.17
 2025-09-07 14:28:00,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.22
 2025-09-07 19:14:00,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.26
-2025-09-07 23:14:14,2025-09-07,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.24
 2025-09-08 00:00:00,2025-09-08,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,6.86
 2025-09-08 00:00:00,2025-09-08,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,6.96
 2025-09-08 02:15:00,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.24
@@ -13653,24 +13650,20 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2025-09-08 07:21:00,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.21
 2025-09-08 12:52:00,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.29
 2025-09-08 14:53:00,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.31
-2025-09-08 16:52:58,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.33
 2025-09-08 18:25:00,2025-09-08,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.4
 2025-09-09 00:00:00,2025-09-09,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,6.86
 2025-09-09 00:00:00,2025-09-09,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,6.96
 2025-09-09 01:20:00,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.42
 2025-09-09 04:25:00,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
-2025-09-09 05:20:02,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
 2025-09-09 06:00:00,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.39
 2025-09-09 08:05:00,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.35
 2025-09-09 16:10:00,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.34
-2025-09-09 20:10:02,2025-09-09,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.35
 2025-09-10 00:00:00,2025-09-10,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,6.86
 2025-09-10 00:00:00,2025-09-10,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,6.96
 2025-09-10 04:22:00,2025-09-10,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.33
 2025-09-10 06:00:00,2025-09-10,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.33
 2025-09-10 13:35:00,2025-09-10,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.38
 2025-09-10 16:55:00,2025-09-10,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.44
-2025-09-10 20:55:10,2025-09-10,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.58
 2025-09-11 00:00:00,2025-09-11,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,6.86
 2025-09-11 00:00:00,2025-09-11,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,6.96
 2025-09-11 05:38:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.67
@@ -13678,21 +13671,17 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2025-09-11 07:53:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.62
 2025-09-11 10:45:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.74
 2025-09-11 13:43:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.84
-2025-09-11 14:45:02,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.76
 2025-09-11 15:37:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.71
 2025-09-11 17:37:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.76
-2025-09-11 21:37:52,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.8
 2025-09-11 21:40:00,2025-09-11,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.82
 2025-09-12 00:00:00,2025-09-12,daily,tco_compra_bcb,TCO de compra del BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,,6.86
 2025-09-12 00:00:00,2025-09-12,daily,tco_venta_bcb,TCO de venta del BCB,bolivianos_per_us_dollar,TCO venta BCB,currency,,6.96
 2025-09-12 01:25:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.81
 2025-09-12 04:44:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.78
 2025-09-12 06:00:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.78
-2025-09-12 08:44:48,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.73
 2025-09-12 09:38:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.69
 2025-09-12 13:24:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.72
 2025-09-12 18:21:00,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.7
-2025-09-12 22:21:17,2025-09-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.68
 2025-09-13 02:00:00,2025-09-13,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.68
 2025-09-13 05:15:00,2025-09-13,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.67
 2025-09-13 09:07:00,2025-09-13,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,12.63
@@ -31781,7 +31770,18 @@ timestamp,date,frequency,variable_name,variable_label,unit,entity_name,entity_ty
 2026-10-12 08:37:01,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.88
 2026-10-12 08:38:50,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.87
 2026-10-12 09:01:54,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.86
-2026-10-12 09:02:13,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.86
+2026-10-12 09:12:02,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 09:20:02,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.84
+2026-10-12 09:33:12,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 10:53:02,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.86
+2026-10-12 10:55:10,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 11:25:13,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.86
+2026-10-12 11:28:01,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 11:29:28,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.86
+2026-10-12 11:31:06,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 11:49:02,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.84
+2026-10-12 11:53:02,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
+2026-10-12 12:01:29,2026-10-12,high_frequency_irregular,cotizacion_usdt_bob,Cotizacion USDT/BOB del mercado paralelo,bolivianos_per_us_dollar,,,,11.85
 2026-10-13 00:00:00,2026-10-13,daily_forecast,limite_inferior_p10_del_pronostico_timesfm_del_tco_compra_bcb,Limite Inferior P10 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.428171
 2026-10-13 00:00:00,2026-10-13,daily_forecast,limite_superior_p90_del_pronostico_timesfm_del_tco_compra_bcb,Limite Superior P90 Del Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.777358
 2026-10-13 00:00:00,2026-10-13,daily_forecast,pronostico_timesfm_del_tco_compra_bcb,Pronostico Timesfm Del Tco Compra BCB,bolivianos_per_us_dollar,TCO compra BCB,currency,forecast,11.669332
